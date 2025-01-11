@@ -1,2 +1,4 @@
 hello my name is harsh agarwal
 I am teaching git and github.
+at srgi
+as a tech lead
