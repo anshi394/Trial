@@ -1,2 +1,2 @@
 hello my name is harsh agarwal
-I am teaching git
+I am teaching git and github.
